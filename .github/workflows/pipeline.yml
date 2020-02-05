@@ -72,6 +72,9 @@ jobs:
         CF_USERNAME: ${{ secrets.CF_USERNAME }}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> d3ece91... Add task for migrating databases
+=======
 >>>>>>> d3ece91... Add task for migrating databases
 =======
 >>>>>>> d3ece91... Add task for migrating databases
