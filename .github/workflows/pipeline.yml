@@ -45,8 +45,6 @@ jobs:
         CF_ORG: ${{ secrets.CF_ORG }}
         CF_SPACE: ${{ secrets.CF_SPACE }}
         CF_USERNAME: ${{ secrets.CF_USERNAME }}
-<<<<<<< HEAD
-=======
         CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
 
   migrate-database:
