@@ -6,4 +6,4 @@ applications:
       - route: pal-track.cfapps.io
     env:
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 13.+ } }'
-      WELCOME_MESSAGE: Hello from the environment
+      WELCOME_MESSAGE: Hello from the review environment
