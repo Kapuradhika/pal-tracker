@@ -3,7 +3,7 @@ applications:
   - name: pal-track
     path: build/libs/pal-tracker.jar
     routes:
-      - route: pal-track-generous-ostrich-ja.cfapps.io
+      - route: pal-track.cfapps.io
     env:
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 13.+ } }'
-      WELCOME_MESSAGE: Hello from the review environment
+      WELCOME_MESSAGE: Hello from the environment
